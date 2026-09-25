@@ -1,0 +1,1 @@
+PASS: unchanged training settings; FSP-off exact original logits/loss; FSP-only 5 stages once each; finite gradients and inference; original BCE+UAL; no SG/FDE/edge

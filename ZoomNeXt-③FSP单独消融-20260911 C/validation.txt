@@ -1,0 +1,9 @@
+PASS variant: baseline (0, 0, 0)
+PASS variant: guidance (1, 0, 0)
+PASS variant: frequency (0, 1, 0)
+PASS variant: edge (0, 0, 1)
+PASS variant: fder (0, 1, 1)
+PASS variant: guidance_frequency (1, 1, 0)
+PASS variant: guidance_edge (1, 0, 1)
+PASS variant: full (1, 1, 1)
+PASS: exact baseline/FDER equivalence, zero-init identity, normalized head weights, guide dependence/gradients, 8 ablations
