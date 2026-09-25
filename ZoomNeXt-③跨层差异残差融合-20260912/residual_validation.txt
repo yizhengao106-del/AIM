@@ -1,0 +1,5 @@
+PASS: zero-init identity, first-step output gradient, later upstream gradients, difference affects correction
+PASS: difference exact initial original logits/loss; finite backward; stages3,2 only; BCE+UAL
+PASS: _nodiff exact initial original logits/loss; finite backward; stages3,2 only; BCE+UAL
+PASS: _baseline exact initial original logits/loss; finite backward; stages3,2 only; BCE+UAL
+PASS: all residual-fusion checks
